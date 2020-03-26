@@ -1,16 +1,6 @@
 
 
-## Demo
-https://ngrader.herokuapp.com/
 
-## TL;DR
-
-```
-git config --global core.longpaths true
-git clone https://github.com/nisaruj/ngrader.git
-cd ngrader
-npm install
-```
 Then, change configurations in `config.json`<br>
 To start the server, run:
 ```
