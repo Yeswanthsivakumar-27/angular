@@ -1,7 +1,4 @@
-# ngrader
-![nGrader logo](https://raw.githubusercontent.com/nisaruj/ngrader/master/public/images/ngrader.png)
 
-The programming judge using Judge0 API.
 
 ## Demo
 https://ngrader.herokuapp.com/
