@@ -1,8 +1,7 @@
 
 
 
-Then, change configurations in `config.json`<br>
-To start the server, run:
+
 ```
 npm start
 ```
@@ -58,5 +57,5 @@ In case you use Heroku, add config variables in settings tab.
 - [Judge0 API](https://api.judge0.com/) - The opensource web API for code compilation and execution.
 
 ## Team
-- [Nisaruj Rattanaaram](https://github.com/nisaruj)
-- [Ploypiti Piyaprapan](https://github.com/ploypiti)
+- [yeswanthsivakumar]
+
