@@ -53,8 +53,7 @@ In case you use Heroku, add config variables in settings tab.
 - request: 2.85.0
 - request-promise: 4.2.2
 
-## Special Thanks
-- [Judge0 API](https://api.judge0.com/) - The opensource web API for code compilation and execution.
+
 
 ## Team
 - [yeswanthsivakumar]
