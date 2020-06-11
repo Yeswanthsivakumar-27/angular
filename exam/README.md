@@ -1,11 +1,6 @@
 
 
-## Assumption
 
-* Register with email as 'admin@examground.com', to get the admin access of the system.
-* For Heroku-
-     * email: admin@examground.com
-     * pass : rahul
 
 
 ## Project Description
